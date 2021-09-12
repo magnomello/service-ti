@@ -1,0 +1,25 @@
+*{
+    margem: 0;
+    preenchimento: 0;
+    tamanho de caixa: border-box;
+}
+
+. corBg {
+    cor de fundo: vermelho;
+}
+
+p {
+    tamanho de caixa: border-box;
+    borda: 2px  preto sólido;
+    preenchimento: 15px ;
+    largura: 200px ;
+    altura: auto;
+}
+
+. modal{
+    largura: 100vw ;
+    altura: 100vh ;
+    cor de fundo: rgba(0, 0, 0, 0,445);
+    posição:absoluto;
+    z-index: 1;
+}
